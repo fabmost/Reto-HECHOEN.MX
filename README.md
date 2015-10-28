@@ -1,5 +1,5 @@
 # Reto-HECHOEN.MX
-Reto #HECHOEN.MX por Clicky
+ConnecTI por Clicky
 
 ## Manual del Prototipo
 * [Manual Web](https://docs.google.com/document/d/1oLTunMPyFFdjQRuCJUCrbmxJz8Tfk2TBaextgsT12DQ/edit?usp=sharing,"Manual Web")
@@ -11,13 +11,13 @@ Reto #HECHOEN.MX por Clicky
 ## Documentación
 
 ### Cronograma (Descargar para poder visualizarlo mejor)
-[Enlace de Google Drive](https://drive.google.com/open?id=0B3zEsL35AGAkUTNCb3VYdU5IQzg,"Cronograma")
+[Enlace de Google Drive](https://drive.google.com/open?id=0B3zEsL35AGAkUTNCb3VYdU5IQzg)
 
 ### ERS
-[Enlace de Google Drive](https://drive.google.com/open?id=1dsWx1sVtUPgxoPRI9qf_aR36GWFXodOCe5yS5On0sIs,"ERS")
+[Enlace de Google Drive](https://drive.google.com/open?id=1dsWx1sVtUPgxoPRI9qf_aR36GWFXodOCe5yS5On0sIs)
 
 ### Plan de Trabajo
-[Enlace de Google Drive](https://drive.google.com/open?id=1ZHync54fUY1frp_vmoUuma2RwybquJReLUBofIDJzTI,"Pan de Trabajo")
+[Enlace de Google Drive](https://drive.google.com/open?id=1ZHync54fUY1frp_vmoUuma2RwybquJReLUBofIDJzTI)
 
 ### Video Promocional
 [Enlace de Youtube](https://youtu.be/gf9ILj9WFeo)
@@ -38,4 +38,4 @@ Reto #HECHOEN.MX por Clicky
 [Enlace de Google Drive](https://drive.google.com/open?id=0B4d_GAiVrlp3fnF3WVlnMXBZR3NQdmFiTmQtOUFFSDBDaWF3R0JucG9uRXNQdVp6T0NVMGM&authuser=0,"RFC y Carta Bajo Protesta")
 
 ## LICENSE
-FORESTAPP is an open-sourced software licensed under the [Apache License](https://github.com/fabmost/Reto-HECHOEN.MX/blob/master/LICENSE,"Apache License")
+ConnecTI is an open-sourced software licensed under the [Apache License](https://github.com/fabmost/Reto-HECHOEN.MX/blob/master/LICENSE,"Apache License")
