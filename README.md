@@ -11,13 +11,13 @@ Reto #HECHOEN.MX por Clicky
 ## Documentación
 
 ### Cronograma (Descargar para poder visualizarlo mejor)
-[Enlace de Google Drive](https://drive.google.com/file/d/0B3zEsL35AGAkVHFhaFdpYnlfZTQ/view?usp=sharing,"Cronograma")
+[Enlace de Google Drive](https://drive.google.com/open?id=0B3zEsL35AGAkUTNCb3VYdU5IQzg,"Cronograma")
 
 ### ERS
-[Enlace de Google Drive](https://docs.google.com/document/d/1c9fw1120S_Qo9hihBXNFbNGeULCRGEVC2H-w0frDi14/edit?usp=sharing,"ERS")
+[Enlace de Google Drive](https://drive.google.com/open?id=1dsWx1sVtUPgxoPRI9qf_aR36GWFXodOCe5yS5On0sIs,"ERS")
 
 ### Plan de Trabajo
-[Enlace de Google Drive](https://docs.google.com/document/d/13n8vHyOQ0m_PPLuKcZsVvkE5MepcFgO5Vg4ru7hqknk/edit?usp=sharing,"Pan de Trabajo")
+[Enlace de Google Drive](https://drive.google.com/open?id=1ZHync54fUY1frp_vmoUuma2RwybquJReLUBofIDJzTI,"Pan de Trabajo")
 
 ### Video Promocional
 [Enlace de Youtube](https://youtu.be/gf9ILj9WFeo)
