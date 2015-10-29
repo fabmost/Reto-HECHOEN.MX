@@ -3,10 +3,9 @@ ConnecTI por Clicky
 
 ## Manual del Prototipo
 * [Manual Web](https://docs.google.com/document/d/1oLTunMPyFFdjQRuCJUCrbmxJz8Tfk2TBaextgsT12DQ/edit?usp=sharing,"Manual Web")
-* [Manual Móvil](https://docs.google.com/document/d/1N36pVaTo6nKYtzKe7_2Fe0CTbm0Sphp4cmHtfuP5w2E/edit?usp=sharing,"Manual Móvil")
 
 ## Demo
-* [Demo Web](http://forestapp.appjota.com/)
+* [Demo Web](http://connecti.cl1cky.com/)
 
 ## Documentación
 
