@@ -11,7 +11,7 @@ ConnecTI por Clicky
 ## Documentación
 
 ### Cronograma (Descargar para poder visualizarlo mejor)
-[Enlace de Google Drive](https://drive.google.com/open?id=0B3zEsL35AGAkUTNCb3VYdU5IQzg)
+[Enlace de Google Drive](https://drive.google.com/open?id=0B5ZfWWNAbYrNal81aERKVGxlN28)
 
 ### ERS
 [Enlace de Google Drive](https://drive.google.com/open?id=1dsWx1sVtUPgxoPRI9qf_aR36GWFXodOCe5yS5On0sIs)
