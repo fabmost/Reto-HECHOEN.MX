@@ -20,7 +20,7 @@ ConnecTI por Clicky
 [Enlace de Google Drive](https://drive.google.com/open?id=1ZHync54fUY1frp_vmoUuma2RwybquJReLUBofIDJzTI)
 
 ### Video Promocional
-[Enlace de Youtube](https://www.youtube.com/watch?v=18Fb05eWoXA)
+[Enlace de Youtube](https://youtu.be/18Fb05eWoXA)
 
 ## Clicky
 | Misión     | Visión    | Valores |
