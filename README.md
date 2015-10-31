@@ -2,7 +2,7 @@
 ConnecTI por Clicky
 
 ## Manual del Prototipo
-* [Manual Web](https://docs.google.com/document/d/1oLTunMPyFFdjQRuCJUCrbmxJz8Tfk2TBaextgsT12DQ/edit?usp=sharing,"Manual Web")
+* [Manual Web](https://drive.google.com/open?id=11QLb1ulXxk1krsfV8xP4mrHzHoAnyY_xdQz9TxHC9gI)
 
 ## Demo
 * [Demo Web](http://connecti.cl1cky.com/)
