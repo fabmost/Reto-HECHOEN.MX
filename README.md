@@ -19,8 +19,8 @@ ConnecTI por Clicky
 ### Plan de Trabajo
 [Enlace de Google Drive](https://drive.google.com/open?id=1ZHync54fUY1frp_vmoUuma2RwybquJReLUBofIDJzTI)
 
-### Video Promocional
-[Enlace de Youtube](https://youtu.be/18Fb05eWoXA)
+### Video Demostrativo
+[Enlace de Youtube](https://youtu.be/ysMaaQtG63E)
 
 ## Clicky
 | Misión     | Visión    | Valores |
